@@ -1,3 +1,3 @@
-# testrepo2
+# Applied Data Science Capstone
 
 ## Editing the file
